@@ -9,8 +9,6 @@
 
 A **ChatGPT-style conversational AI** built from scratch with a custom GPT-2 implementation. Features real-time streaming responses, web search integration (RAG), and a modern React interface.
 
-![Resonance Demo](demo.mp4)
-
 ---
 
 ## ✨ Features
