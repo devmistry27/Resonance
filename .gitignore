@@ -1,0 +1,34 @@
+# General
+.DS_Store
+.vscode/
+.idea/
+
+# Backend (Python)
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+*.pth
+!backend/model/best_model.pth
+
+# Frontend (Node)
+node_modules/
+dist/
+build/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm/
+
+# Backend specific ignore paths relative to root if needed (though wildcards cover most)
+backend/.env
+Resonance/.env
+
+demo.mp4
+FINAL_OUTPUT.mp4
+linkedin.md
