@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/FastAPI-0.109+-009688?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
 </p>
 
-# 🎵 Resonance
+# Resonance
 
 A **ChatGPT-style conversational AI** built from scratch with a custom GPT-2 implementation. Features real-time streaming responses, web search integration (RAG), and a modern React interface.
 
